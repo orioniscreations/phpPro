@@ -10,6 +10,15 @@ PHP Assigment
 
 <hr>
 
+August 24, 2020
+
+-redid project Navbar
+- started on log in code
+- change mind and went in a different direction and redid navbar
+- redid navbar a third time
+- went back to the original idea for the navbar
+- started the php code for loging in
+
 August 21, 2020
 - rewatched lessons to follow along
 - submitted wireframe
